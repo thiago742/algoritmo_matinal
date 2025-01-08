@@ -1,0 +1,28 @@
+1 - Abrir os olhos
+2 - Ver a hora
+3 - Ja são 7 horas? Sim
+   1 - Levantar da cama
+   2- Ir ao banheiro
+   3 - Escovar os dentes
+   4 - Tomar banho
+   5 - Trocar de roupa
+   6 - Preparar o café da manhã
+   7 - Pegar a cafeteira
+   8 - Adicionar água na cafeteira
+   9 - Colocar o pó de café no filtro
+   10 - Ligar a cafeteira ou levar ao fogo
+   11 - Esperar o café ficar pronto
+   12 - Servir o café em uma xícara
+   13 - Pegar uma frigideira
+   14 - Ligar o fogão e colocar a frigideira no fogo
+   15 - Adicionar manteiga ou óleo na frigideira
+   16 - Quebrar o ovo na frigideira
+   17 - Cozinhar o ovo até o ponto desejado
+   18 - Cortar o pão ao meio
+   19 - Colocar o ovo dentro do pão
+   20 - Servir o pão com ovo no prato
+   21 - Aproveite o café da manhã
+   22 - Começar o dia com energia
+
+4 - Não
+   2 - Volte a dormir
